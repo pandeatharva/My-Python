@@ -1,4 +1,4 @@
-# Store Management Systems
+# Store Management System
 
 This is a simple project to understand OOP principles in python. 
 Item -> Phone classes indicate Inheritance property. 

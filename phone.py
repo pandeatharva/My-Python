@@ -13,4 +13,4 @@ class Phone(Item):
         # Assign to self object
         self.broken_phones = broken_phones
 
-phone1 = Phone("jscPhonev10", 500, 5, 1)
+phone1 = Phone("Phonev10", 500, 5, 1)

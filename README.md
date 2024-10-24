@@ -1,7 +1,26 @@
 # Store Management System
 
-This is a simple project to understand OOP principles in python. 
-Item -> Phone classes indicate Inheritance property. 
-Keyboard class shows Polymorphism. eg, length of String and List
-Decorators like @proprty, @name.setter shows Encapsulation. The attributes cannot be overriden directly. 
-Abstraction means not showing the unneccesary methods/attributes to other classes.
+This project is a simple console-based Store Management System written in Python, which demonstrates Object-Oriented Programming (OOP) principles. The system allows users to manage customers, products, and inventory in a store. Features
+
+Customer Management:
+    Add new customers.
+    View customer information.
+    List all customers.
+
+Product Management:
+    Add new products with name, price, and quantity.
+    View product details.
+    List all available products.
+
+Inventory Management:
+    Update product quantity.
+    Check product availability.
+
+Transactions:
+    Create orders for customers.
+    Generate bills for customer purchases.
+    Calculate total amount and generate receipts.
+Technologies Used
+
+Python: The entire project is developed using Python, implementing OOP principles such as classes, inheritance, encapsulation, and polymorphism.
+Error Handling: The system handles invalid input and errors gracefully.

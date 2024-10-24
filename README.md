@@ -1,3 +1,1 @@
-# My-Python
-
-This is my Python programming language learning journey.
+This is my journey to learn Python programming language and the concepts related to Software Engineering.
